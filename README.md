@@ -13,7 +13,7 @@ An orbit camera rig for Cinema 4D (Redshift) driven from one control null.
 
 ## Credits
 
-Shake data from **Camera Shakify** by Ian Hubert & Nathan Vegdahl, [CC0](https://creativecommons.org/publicdomain/zero/1.0/).
+Shake data from **Camera Shakify** by Ian Hubert & Nathan Vegdahl.
 [https://github.com/EatTheFuture/camera_shakify
 ](https://github.com/EatTheFuture/camera_shakify)
 
