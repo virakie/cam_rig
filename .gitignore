@@ -1,0 +1,4 @@
+*.c4d~
+backup/
+.DS_Store
+Thumbs.db
