@@ -1,4 +1,4 @@
-# cam_rig
+# CAM_RIG
 
 An orbit camera rig for Cinema 4D (Redshift) driven from one control null.
 
@@ -7,7 +7,7 @@ An orbit camera rig for Cinema 4D (Redshift) driven from one control null.
 
 ## Controls
 
-| POSITION | CAMERA SHAKE |
+| CAMERA CONTROL | CAMERA SHAKE |
 |---|---|
 | ![](docs/panel_position.png) | ![](docs/panel_shake.png) |
 
