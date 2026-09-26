@@ -7,9 +7,9 @@ An orbit camera rig for Cinema 4D (Redshift) driven from one control null.
 
 ## Controls
 
-| CAMERA CONTROL | CAMERA SHAKE |
-|---|---|
-| ![](docs/panel_position.png) | ![](docs/panel_shake.png) |
+| CAMERA CONTROL | CAMERA SHAKE | ETC. |
+|---|---|---|
+| ![](docs/panel_position.png) | ![](docs/panel_shake.png) | ![](docs/panel_etc.png) |
 
 ## Credits
 
