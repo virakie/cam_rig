@@ -16,7 +16,3 @@ An orbit camera rig for Cinema 4D (Redshift) driven from one control null.
 Shake data from **Camera Shakify** by Ian Hubert & Nathan Vegdahl.
 [https://github.com/EatTheFuture/camera_shakify
 ](https://github.com/EatTheFuture/camera_shakify)
-
-## Requirements
-
-Cinema 4D 2026 · Redshift (RS Camera).
